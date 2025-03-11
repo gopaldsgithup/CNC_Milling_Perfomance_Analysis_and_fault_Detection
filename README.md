@@ -29,3 +29,15 @@ CNC-Milling-Performance-Analysis-and-Fault-Detection/
 │   ├── Background image integration
 │   ├── File upload functionality
 │   ├── Model inference & results visualization
+
+
+📊 Data Processing
+
+
+Data Source: CNC milling sensor data from multiple experiment files.
+Preprocessing Steps:
+Merging experiment files with train data
+Handling missing values (replacing with default values)
+Encoding categorical features (Label Encoding)
+Standardizing numerical features (using StandardScaler)
+Reshaping data for LSTM (time-series input format)
