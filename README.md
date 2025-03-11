@@ -7,6 +7,9 @@ This project focuses on analyzing CNC milling machine performance and detecting 
 
 
 📂 Project Structure
+
+
+
 CNC-Milling-Performance-Analysis-and-Fault-Detection/
 │
 ├── Data Collection & Preprocessing
