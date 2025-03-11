@@ -4,3 +4,4 @@ numpy==1.26.4
 scipy
 Scikit-learn
 keras
+pip install streamlit -r
