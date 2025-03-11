@@ -5,3 +5,4 @@ scipy
 Scikit-learn
 keras
 pip install streamlit
+pip install --upgrade pip
